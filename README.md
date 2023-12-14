@@ -7,6 +7,7 @@ ViewExper is a technology company providing artificial intelligence solutions an
 - National Director: Carolyn Murk
 - Project director: Tran Binh Minh
 - Chief Financial Officer: Deavan Sulick
+
 Representative Location: 2000 Purchase Street · Purchase, New York · U.S.
 
 ViewExper's APIs and Mastercard's platform evolve and change over time. Our team is constatnly adding new capabilities to expand the set of supported use cases. Usually, these new capabilities are added as new component versions. Changing technology and market conditions also call for the replacement of out-of-date features, APIs, and client libraries. When it comes to releasing new versions and sunsetting any of our offerings, we aim to establish a customer-centric approach with minimal disruption.
