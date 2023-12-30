@@ -17,7 +17,7 @@ ViewExper's APIs and Mastercard's platform evolve and change over time. Our team
 
 To keep up with the new versions of languages, Mastercard follows the policy mentioned in the "Tools and Release Cadence" section of the page.
 
-The languages are going to adhere to the release cycle and LTS(Long Term Support) and STS(Short Term Support) release provided. Our team will usually support the latest LTS release and the latest STS release minus 1.
+The languages are going to adhere to the release cycle and LTS (Long Term Support) and STS (Short Term Support) release provided. Our team will usually support the latest LTS release and the latest STS release minus 1.
 
 We will update to the latest minor release in the supported version to ensure that we get all critical fixes, including critical security problems. As soon as the updated version of a language is released, we support it once the first minor release has been deployed. At the same time, we will deprecate the oldest supported version.
 
