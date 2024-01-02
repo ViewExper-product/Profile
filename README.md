@@ -2,7 +2,7 @@
 
 # Introduction
 
-ViewExper Dynamic Limited Company is a technology firm providing artificial intelligence solutions and smart payment services.
+**ViewExper Dynamic Limited Company** is a technology firm providing artificial intelligence solutions and smart payment services.
 - CEO: Winnie Jensi
 - National Director: Carolyn Murk
 - Project director: Tran Binh Minh
